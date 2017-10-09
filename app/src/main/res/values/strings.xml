@@ -3,7 +3,7 @@
     <string name="ski_u_mah_description">Ski-U-Mah Logo</string>
     <string name="goldy_gopher_description">Goldy Gopher</string>
     <string name="university_of_minnesota_name">Name: University of Minnesota</string>
-    <string name="university_of_minnesota_address">Address: 3 Morrill Hall 100 Church St. S.E. Minneapolis MN 55455</string>
-    <string name="university_of_minnesota_phone_number">Phone: 612-625-5000</string>
+    <string name="university_of_minnesota_address">Address: 3 Morrill Hall, 100 Church St SE, Minneapolis, MN 55455</string>
+    <string name="university_of_minnesota_phone_number">Phone: 612–625–5000</string>
     <string name="university_of_minnesota_colors">Colors: Maroon and Gold</string>
 </resources>
